@@ -32,8 +32,8 @@ gem 'simple_form', '~> 5.0', '>= 5.0.3'
 gem 'haml', '~> 5.2'
 gem 'devise'
 
-  gem 'execjs' 
-  # gem 'therubyracer'
+gem 'execjs' 
+# gem 'therubyracer'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
